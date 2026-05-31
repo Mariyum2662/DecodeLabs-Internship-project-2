@@ -231,9 +231,9 @@ Scikit-Learn Contributors — For the intuitive and robust ML framework
 UCI Machine Learning Repository — Curators of the Iris dataset
 Ronald A. Fisher — Original collector and publisher (1936)
 📬 Contact
-Intern Name: [Mariyum Motaal]
-Email: [24-ai-012@studemy.hitecuni.edu.pk]
-LinkedIn: []
+Intern Name: [MARIYUM MOTAAL]
+Email: [ mariyum.motaal@gmail.com]
+LinkedIn: [www.linkedin.com/in/mariyum-mariyum-4am75367 ]
 GitHub: [ https://github.com/Mariyum2662/DecodeLabs-Internship-project-1-.git]
 <div align="center">
 ⭐ DecodeLabs AI Engineering Internship — Week 2 ⭐
